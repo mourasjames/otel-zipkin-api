@@ -15,8 +15,9 @@ Este projeto consiste em dois serviços que trabalham em conjunto para consultar
    - Porta: 8081
    - Endpoint: `/weather` (POST)
 
-3. **Zipkin**: UI para visualização dos traces
+3. **Zipkin**: UI para visualização dos traces (Teste OK)
    - Porta: 9411
+   - http://localhost:9411/
 
 ## Requisitos
 
